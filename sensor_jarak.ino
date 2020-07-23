@@ -7,9 +7,9 @@
 #define TRIGGERPIN D2
 #define ECHOPIN    D1
 
-char auth[] = "D2Vj0NMk14SuvlToJHfDVn4nYIptnt3_";
-char ssid[] = "MBAHMUKIPER";
-char pass[] = "ahhayas20";
+char auth[] = "Your Auth Token";
+char ssid[] = "Your Wifi";
+char pass[] = "Your Password";
 
 WidgetLCD lcd(V1);
 
